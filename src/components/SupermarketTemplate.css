@@ -1,0 +1,21 @@
+.SupermarketTemplate {
+    width: 768px;
+    display: flex;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3rem;
+}
+
+.SuperMarketTemplate h2 {
+    margin-top: 0;
+}
+
+.SupermarketTemplate > div {
+    padding: 1rem;
+    flex: 1;
+}
+
+.SupermarketTemplate .items-wrapper {
+    background: #F8F9FA
+}
