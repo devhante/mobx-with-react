@@ -1,2 +1,2 @@
 # mobx-with-react
-> https://velog.io/@velopert/begin-mobxㄴ
+> https://velog.io/@velopert/begin-mobx
