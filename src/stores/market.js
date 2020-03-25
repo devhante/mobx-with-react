@@ -15,7 +15,7 @@ export default class MarketStore {
             return;
         }
         exists.count++;
-    }
+    };
 
     @action
     take = name => {
